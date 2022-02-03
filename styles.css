@@ -274,6 +274,7 @@ opacity: 1;
     margin-bottom:5% ;
     text-align: left;
     background:#fff3f3;
+    padding:25px;
     cursor: pointer;
     display: flex;
 }
